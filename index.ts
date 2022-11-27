@@ -17,5 +17,9 @@ setTimeout(person.growOld,1000);
 setTimeout (function(){console.log(person.age);},2000);  //2
 
 
+// how do I write resultsto the document itself ??
+
+
+
 
 
