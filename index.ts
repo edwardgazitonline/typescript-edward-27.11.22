@@ -11,6 +11,17 @@ function Person(age){
 
 };
 var person = new Person(1);
-console.log(person.age);
+console.log(person.age);  //1
+setTimeout(person.growOld,1000);
+
+setTimeout (function(){console.log(person.age);},2000);  //2
+
+
+// how do I write results to the document itself ??
+
+
+
+
+
 
 
