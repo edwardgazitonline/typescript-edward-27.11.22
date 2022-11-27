@@ -23,3 +23,5 @@ setTimeout (function(){console.log(person.age);},2000);  //2
 
 
 
+
+
