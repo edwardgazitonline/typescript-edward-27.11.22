@@ -5,7 +5,7 @@ import './style.css';
 const appDiv: HTMLElement = document.getElementById('app');
 appDiv.innerHTML = `<h1>TypeScript Starter</h1>
 
-<button  onClick = "document.write (5+6)">hello</button>`;
+<button  onClick = "document.write (5+6)">Helllo</button>`;
 function Person(age){
   this.age = age
 
